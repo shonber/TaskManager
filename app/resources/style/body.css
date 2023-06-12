@@ -1,0 +1,14 @@
+/*
+    This style document will be in charge of the main body of the HTML page.
+*/
+
+:root {
+    --black: #191919; /* Custom black */
+    --white: #F9F6EE; /* Custom white */
+    --red: #ff0000; /* Custom red */
+    --orange: #ff8243 /* Custom orange */
+}
+
+body {
+    background-color: var(--white);
+}

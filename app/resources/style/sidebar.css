@@ -1,0 +1,29 @@
+.sidebar-header>.avatar {
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    background: #191919;
+    color: #191919;
+    top: 16px;
+    left: 16px;
+    overflow: hidden;
+    text-align: center;
+    border: 0;
+    border-radius: 0%;
+}
+
+.sidebar-menu li.divider {
+    padding: 0;
+    height: 1px;
+    margin: 0 1px;
+    overflow: hidden;
+    background-color: var(--black);
+}
+
+#close_sidebar_span:hover{
+    color: var(--red);
+}
+
+.bg-red {
+    background-color: var(--black)!important;;
+}
